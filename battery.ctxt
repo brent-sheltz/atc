@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=battery
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ battery\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=battery()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ battery\r\n
+comment2.params=charge\ rechargable\ max
+comment2.target=battery(int,\ java.lang.Boolean,\ int)
+comment3.params=a\ discharge
+comment3.target=int\ discharge(battery,\ int)
+comment4.params=a\ charge
+comment4.target=void\ charge(battery,\ int)
+numComments=5
